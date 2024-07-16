@@ -1,0 +1,212 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="16">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="T1" />
+            <Property id="IDOBJ_NAME" value="T1" />
+            <Property id="IDOBJ_ALIASNAME" value="T1" />
+            <Property id="TERMINAL_CONN" value="1" />
+            <Property id="TERMINAL_SEQNUM" value="50" />
+            <Property id="TERMINAL_PHASES" value="12" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="T2" />
+            <Property id="IDOBJ_NAME" value="T2" />
+            <Property id="IDOBJ_ALIASNAME" value="T2" />
+            <Property id="TERMINAL_CONN" value="0" />
+            <Property id="TERMINAL_SEQNUM" value="90" />
+            <Property id="TERMINAL_PHASES" value="20" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="T3" />
+            <Property id="IDOBJ_NAME" value="T3" />
+            <Property id="IDOBJ_ALIASNAME" value="T3" />
+            <Property id="TERMINAL_SEQNUM" value="70" />
+            <Property id="TERMINAL_PHASES" value="14" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RC1" />
+            <Property id="IDOBJ_NAME" value="RC1" />
+            <Property id="IDOBJ_ALIASNAME" value="RC1" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="1" />
+            <Property id="REGULATINGCONTROL_MODE" value="activePower" />
+            <Property id="REGULATINGCONTROL_MONPHASE" value="ABC" />
+            <Property id="REGULATINGCONTROL_TARRANGE" value="56.4" />
+            <Property id="REGULATINGCONTROL_TARVALUE" value="48.2" />
+            <Property id="REGULATINGCONTROL_TERMINAL" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RC2" />
+            <Property id="IDOBJ_NAME" value="RC2" />
+            <Property id="IDOBJ_ALIASNAME" value="RC2" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="0" />
+            <Property id="REGULATINGCONTROL_MODE" value="powerFactor" />
+            <Property id="REGULATINGCONTROL_MONPHASE" value="s12" />
+            <Property id="REGULATINGCONTROL_TARRANGE" value="98.12" />
+            <Property id="REGULATINGCONTROL_TARVALUE" value="48.5" />
+            <Property id="REGULATINGCONTROL_TERMINAL" value="0x00000001fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="REGULATINGCONTROL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RC3" />
+            <Property id="IDOBJ_NAME" value="RC3" />
+            <Property id="IDOBJ_ALIASNAME" value="RC3" />
+            <Property id="REGULATINGCONTROL_DISCRETE" value="1" />
+            <Property id="REGULATINGCONTROL_MODE" value="voltage" />
+            <Property id="REGULATINGCONTROL_MONPHASE" value="C" />
+            <Property id="REGULATINGCONTROL_TARRANGE" value="76.2" />
+            <Property id="REGULATINGCONTROL_TARVALUE" value="32.5" />
+            <Property id="REGULATINGCONTROL_TERMINAL" value="0x00000001fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DT1" />
+            <Property id="IDOBJ_NAME" value="DT1" />
+            <Property id="IDOBJ_ALIASNAME" value="DT1" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DT2" />
+            <Property id="IDOBJ_NAME" value="DT2" />
+            <Property id="IDOBJ_ALIASNAME" value="DT2" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffd" type="DAYTYPE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="DT3" />
+            <Property id="IDOBJ_NAME" value="DT3" />
+            <Property id="IDOBJ_ALIASNAME" value="DT3" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="SEASON" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="S1" />
+            <Property id="IDOBJ_NAME" value="S1" />
+            <Property id="IDOBJ_ALIASNAME" value="S1" />
+            <Property id="SEASON_ENDDATE" value="637930080000000000" />
+            <Property id="SEASON_STARTDATE" value="637877376000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="SEASON" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="S2" />
+            <Property id="IDOBJ_NAME" value="S2" />
+            <Property id="IDOBJ_ALIASNAME" value="S2" />
+            <Property id="SEASON_ENDDATE" value="637802208000000000" />
+            <Property id="SEASON_STARTDATE" value="638002656000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffd" type="SEASON" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="S3" />
+            <Property id="IDOBJ_NAME" value="S3" />
+            <Property id="IDOBJ_ALIASNAME" value="S3" />
+            <Property id="SEASON_ENDDATE" value="637877376000000000" />
+            <Property id="SEASON_STARTDATE" value="637874784000000000" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="REGULATIONSCHED" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RS1" />
+            <Property id="IDOBJ_NAME" value="RS1" />
+            <Property id="IDOBJ_ALIASNAME" value="RS1" />
+            <Property id="BASICINTERVALSCHED_STARTTIME" value="638208648000000000" />
+            <Property id="BASICINTERVALSCHED_VAL1MUL" value="G" />
+            <Property id="BASICINTERVALSCHED_VAL1UNIT" value="A" />
+            <Property id="BASICINTERVALSCHED_VAL2MUL" value="p" />
+            <Property id="BASICINTERVALSCHED_VAL2UNIT" value="N" />
+            <Property id="SEASONDAYTYPESCHED_DAYTYPE" value="0x00000003ffffffff" />
+            <Property id="SEASONDAYTYPESCHED_SEASON" value="0x00000004ffffffff" />
+            <Property id="REGULATIONSCHED_REGCONTROL" value="0x00000002fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="REGULATIONSCHED" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RS2" />
+            <Property id="IDOBJ_NAME" value="RS2" />
+            <Property id="IDOBJ_ALIASNAME" value="RS2" />
+            <Property id="BASICINTERVALSCHED_STARTTIME" value="638208288000000000" />
+            <Property id="BASICINTERVALSCHED_VAL1MUL" value="none" />
+            <Property id="BASICINTERVALSCHED_VAL1UNIT" value="s" />
+            <Property id="BASICINTERVALSCHED_VAL2MUL" value="k" />
+            <Property id="BASICINTERVALSCHED_VAL2UNIT" value="VAr" />
+            <Property id="SEASONDAYTYPESCHED_DAYTYPE" value="0x00000003fffffffe" />
+            <Property id="SEASONDAYTYPESCHED_SEASON" value="0x00000004fffffffe" />
+            <Property id="REGULATIONSCHED_REGCONTROL" value="0x00000002fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffd" type="REGULATIONSCHED" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="RS3" />
+            <Property id="IDOBJ_NAME" value="RS3" />
+            <Property id="IDOBJ_ALIASNAME" value="RS3" />
+            <Property id="BASICINTERVALSCHED_STARTTIME" value="638208318000000000" />
+            <Property id="BASICINTERVALSCHED_VAL1MUL" value="c" />
+            <Property id="BASICINTERVALSCHED_VAL1UNIT" value="V" />
+            <Property id="BASICINTERVALSCHED_VAL2MUL" value="n" />
+            <Property id="BASICINTERVALSCHED_VAL2UNIT" value="S" />
+            <Property id="SEASONDAYTYPESCHED_DAYTYPE" value="0x00000003fffffffd" />
+            <Property id="SEASONDAYTYPESCHED_SEASON" value="0x00000004fffffffd" />
+            <Property id="REGULATIONSCHED_REGCONTROL" value="0x00000002ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000006ffffffff" type="ASYNCMACHINE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="AM1" />
+            <Property id="IDOBJ_NAME" value="AM1" />
+            <Property id="IDOBJ_ALIASNAME" value="AM1" />
+            <Property id="EQUIPMENT_AGGREGATED" value="1" />
+            <Property id="EQUIPMENT_NORMALLYINSERVICE" value="1" />
+            <Property id="REGULATINGCONDEQP_REGCONTROL" value="0x00000002ffffffff" />
+            <Property id="ROTATINGMACHINE_DAMPING" value="100.2" />
+            <Property id="ROTATINGMACHINE_SATFACTOR" value="99.5" />
+            <Property id="ROTATINGMACHINE_SATFACTOR120" value="119.5" />
+            <Property id="ROTATINGMACHINE_INERTIA" value="20.2" />
+            <Property id="ROTATINGMACHINE_RATEDS" value="32.1" />
+            <Property id="ROTATINGMACHINE_STATLEAKREAC" value="50.2" />
+            <Property id="ROTATINGMACHINE_STATRESIS" value="70.1" />
+            <Property id="ASYNCMACHINE_RR1" value="10.5" />
+            <Property id="ASYNCMACHINE_RR2" value="20.5" />
+            <Property id="ASYNCMACHINE_TPO" value="10.1" />
+            <Property id="ASYNCMACHINE_TPPO" value="5.5" />
+            <Property id="ASYNCMACHINE_XLR1" value="80.5" />
+            <Property id="ASYNCMACHINE_XLR2" value="55.1" />
+            <Property id="ASYNCMACHINE_XM" value="110.1" />
+            <Property id="ASYNCMACHINE_XP" value="50.1" />
+            <Property id="ASYNCMACHINE_XPP" value="50.1" />
+            <Property id="ASYNCMACHINE_XS" value="105.3" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

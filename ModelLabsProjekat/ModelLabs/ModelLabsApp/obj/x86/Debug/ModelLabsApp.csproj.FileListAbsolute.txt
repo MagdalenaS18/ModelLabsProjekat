@@ -1,0 +1,85 @@
+D:\Vezbe\11\ModelLabs\bin\ModelLabsApp.exe.config
+D:\Vezbe\11\ModelLabs\bin\ModelLabsApp.exe
+D:\Vezbe\11\ModelLabs\bin\ModelLabsApp.pdb
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+D:\Vezbe\11\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\dejan\Desktop\IESMihajo\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe.config
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb

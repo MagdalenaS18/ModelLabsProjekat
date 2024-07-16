@@ -1,0 +1,160 @@
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Marija\Desktop\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\Milica\Desktop\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\dejan\Desktop\projekatmarija\ProjekatMarija\Projekat2018\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\dejan\Desktop\MyDesktop\IESMihajo\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade Prodan\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\radex\Desktop\IES Radivoje\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\HP\Desktop\IES Jovana\IES Jovana\IES Jovana\PR93-2018 Rade\PR93-2018 Rade\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe.config
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.exe
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\WpfClient.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.dll
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.Common.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient_MarkupCompile.lref
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.g.resources
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.Properties.Resources.resources
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.csproj.CopyComplete
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.exe
+C:\Users\HP\Desktop\IES projekat\ModelLabsProjekat\ModelLabs\WpfClient\obj\Debug\WpfClient.pdb

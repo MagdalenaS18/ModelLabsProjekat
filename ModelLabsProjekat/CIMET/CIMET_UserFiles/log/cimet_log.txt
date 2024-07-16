@@ -1,0 +1,250 @@
+
+[@ 2014-11-17 12:34:30] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2014-11-17 12:34:30] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2017-09-19 16:32:44] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2017-09-19 16:32:45] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2017-09-19 16:35:58] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2017-09-19 16:35:58] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey, RegistryKeyPermissionCheck permissionCheck)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2018-12-13 15:06:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2018-12-13 15:06:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2018-12-13 16:03:49] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2018-12-13 16:03:49] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2018-12-13 17:20:36] : 
+	An error ocurred during loading  CIM-XML file "E:\Desktop\Blok 3\Projekat\CIMETProjekat68\documents\Projekat68CIMXML.xml"
+
+[parse]  (line, column) = (8, 3) : There are multiple root elements. Line 8, position 3.
+
+---------------
+
+
+[@ 2022-02-08 12:17:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-08 12:17:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-08 14:29:44] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-08 14:29:44] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-14 10:05:27] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-14 10:05:27] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-14 20:10:43] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2022-02-14 20:10:43] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2023-04-19 16:57:52] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2023-04-19 16:57:52] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2023-04-19 17:23:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimws' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+
+
+[@ 2023-04-19 17:23:08] : 
+	Problem during creating/updating system registry information:
+ Access to the registry key 'HKEY_CLASSES_ROOT\.cimproj' is denied.
+
+   at Microsoft.Win32.RegistryKey.Win32Error(Int32 errorCode, String str)
+   at Microsoft.Win32.RegistryKey.CreateSubKeyInternal(String subkey, RegistryKeyPermissionCheck permissionCheck, Object registrySecurityObj, RegistryOptions registryOptions)
+   at Microsoft.Win32.RegistryKey.CreateSubKey(String subkey)
+   at TelventDMS.CIMET.Common.FileIconAssociation.Associate(String extension, String description, String iconPath, String application) in D:\SSELENA\ALL Work\ESI - Fax\SIMES\Vezbe\Vezba-6\CIMET-Standalone\CIMEnhancerTool\Common\FileIconAssociation.cs:line 48
+---------------
+

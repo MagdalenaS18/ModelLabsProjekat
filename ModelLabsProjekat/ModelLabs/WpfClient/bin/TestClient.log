@@ -1,0 +1,2 @@
+11/11/2022 3:09:05 AM : Failed to return value from property for specified type (Float) because it is incompatible with actual property type (Bool)
+11/11/2022 3:23:36 AM : Failed to return value from property for specified type (String) because it is incompatible with actual property type (DateTime)

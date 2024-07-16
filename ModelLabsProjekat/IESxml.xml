@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+
+	<!-- Terminal -->
+		<cim:Terminal rdf:ID="T1">
+		<cim:Terminal.connected>True</cim:Terminal.connected>
+		<cim:Terminal.phases>C</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>50</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>T1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T1</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+	<cim:Terminal rdf:ID="T2">
+		<cim:Terminal.connected>False</cim:Terminal.connected>
+		<cim:Terminal.phases>s2N</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>90</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>T2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T2</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+	<cim:Terminal rdf:ID="T3">
+		<cim:Terminal.connected></cim:Terminal.connected>
+		<cim:Terminal.phases>N</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>70</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>T3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>T3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>T3</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+	<!-- RegulatingControl -->
+		<cim:RegulatingControl rdf:ID="RC1">
+		<cim:RegulatingControl.discrete>True</cim:RegulatingControl.discrete>
+		<cim:RegulatingControl.mode>activePower</cim:RegulatingControl.mode>
+		<cim:RegulatingControl.monitoredPhase>ABC</cim:RegulatingControl.monitoredPhase>
+		<cim:RegulatingControl.targetRange>56.4</cim:RegulatingControl.targetRange>
+		<cim:RegulatingControl.targetValue>48.2</cim:RegulatingControl.targetValue>
+		<cim:RegulatingControl.Terminal rdf:resource="#T1"/>
+		<cim:IdentifiedObject.aliasName>RC1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RC1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RC1</cim:IdentifiedObject.name>
+	</cim:RegulatingControl>
+
+	<cim:RegulatingControl rdf:ID="RC2">
+		<cim:RegulatingControl.discrete>False</cim:RegulatingControl.discrete>
+		<cim:RegulatingControl.mode>powerFactor</cim:RegulatingControl.mode>
+		<cim:RegulatingControl.monitoredPhase>s12</cim:RegulatingControl.monitoredPhase>
+		<cim:RegulatingControl.targetRange>98.12</cim:RegulatingControl.targetRange>
+		<cim:RegulatingControl.targetValue>48.5</cim:RegulatingControl.targetValue>
+		<cim:RegulatingControl.Terminal rdf:resource="#T2"/>
+		<cim:IdentifiedObject.aliasName>RC2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RC2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RC2</cim:IdentifiedObject.name>
+	</cim:RegulatingControl>
+
+	<cim:RegulatingControl rdf:ID="RC3">
+		<cim:RegulatingControl.discrete>True</cim:RegulatingControl.discrete>
+		<cim:RegulatingControl.mode>voltage</cim:RegulatingControl.mode>
+		<cim:RegulatingControl.monitoredPhase>C</cim:RegulatingControl.monitoredPhase>
+		<cim:RegulatingControl.targetRange>76.2</cim:RegulatingControl.targetRange>
+		<cim:RegulatingControl.targetValue>32.5</cim:RegulatingControl.targetValue>
+		<cim:RegulatingControl.Terminal rdf:resource="#T3"/>
+		<cim:IdentifiedObject.aliasName>RC3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RC3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RC3</cim:IdentifiedObject.name>
+	</cim:RegulatingControl>
+
+	<!-- DayType -->
+		<cim:DayType rdf:ID="DT1">
+		<cim:IdentifiedObject.aliasName>DT1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DT1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DT1</cim:IdentifiedObject.name>
+	</cim:DayType>
+
+	<cim:DayType rdf:ID="DT2">
+		<cim:IdentifiedObject.aliasName>DT2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DT2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DT2</cim:IdentifiedObject.name>
+	</cim:DayType>
+
+	<cim:DayType rdf:ID="DT3">
+		<cim:IdentifiedObject.aliasName>DT3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>DT3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>DT3</cim:IdentifiedObject.name>
+	</cim:DayType>
+
+	<!-- Season -->
+		<cim:Season rdf:ID="S1">
+		<cim:Season.endDate>2022-7-10</cim:Season.endDate>
+		<cim:Season.startDate>2022-5-10</cim:Season.startDate>
+		<cim:IdentifiedObject.aliasName>S1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>S1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>S1</cim:IdentifiedObject.name>
+	</cim:Season>
+
+	<cim:Season rdf:ID="S2">
+		<cim:Season.endDate>2022-2-12</cim:Season.endDate>
+		<cim:Season.startDate>2022-10-2</cim:Season.startDate>
+		<cim:IdentifiedObject.aliasName>S2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>S2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>S2</cim:IdentifiedObject.name>
+	</cim:Season>
+
+	<cim:Season rdf:ID="S3">
+		<cim:Season.endDate>2022-5-10</cim:Season.endDate>
+		<cim:Season.startDate>2022-5-7</cim:Season.startDate>
+		<cim:IdentifiedObject.aliasName>S3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>S3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>S3</cim:IdentifiedObject.name>
+	</cim:Season>
+
+	<!-- RegulationSchedule -->
+		<cim:RegulationSchedule rdf:ID="RS1">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#RC2"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#DT1"/>
+		<cim:SeasonDayTypeSchedule.Season rdf:resource="#S1"/>
+		<cim:RegularIntervalSchedule.endTime>11:07</cim:RegularIntervalSchedule.endTime>
+		<cim:RegularIntervalSchedule.timeStep>32.2</cim:RegularIntervalSchedule.timeStep>
+		<cim:BasicIntervalSchedule.startTime>10:00</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Multiplier>c</cim:BasicIntervalSchedule.value1Multiplier>
+		<cim:BasicIntervalSchedule.value1Unit>A</cim:BasicIntervalSchedule.value1Unit>
+		<cim:BasicIntervalSchedule.value2Multiplier>T</cim:BasicIntervalSchedule.value2Multiplier>
+		<cim:BasicIntervalSchedule.value2Unit>h</cim:BasicIntervalSchedule.value2Unit>
+		<cim:IdentifiedObject.aliasName>RS1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RS1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RS1</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+
+	<cim:RegulationSchedule rdf:ID="RS2">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#RC3"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#DT2"/>
+		<cim:SeasonDayTypeSchedule.Season rdf:resource="#S2"/>
+		<cim:RegularIntervalSchedule.endTime>01:10</cim:RegularIntervalSchedule.endTime>
+		<cim:RegularIntervalSchedule.timeStep>20.52</cim:RegularIntervalSchedule.timeStep>
+		<cim:BasicIntervalSchedule.startTime>00:00</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Multiplier>p</cim:BasicIntervalSchedule.value1Multiplier>
+		<cim:BasicIntervalSchedule.value1Unit>Wh</cim:BasicIntervalSchedule.value1Unit>
+		<cim:BasicIntervalSchedule.value2Multiplier>M</cim:BasicIntervalSchedule.value2Multiplier>
+		<cim:BasicIntervalSchedule.value2Unit>m3</cim:BasicIntervalSchedule.value2Unit>
+		<cim:IdentifiedObject.aliasName>RS2</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RS2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RS2</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+
+	<cim:RegulationSchedule rdf:ID="RS3">
+		<cim:RegulationSchedule.RegulatingControl rdf:resource="#RC1"/>
+		<cim:SeasonDayTypeSchedule.DayType rdf:resource="#DT3"/>
+		<cim:SeasonDayTypeSchedule.Season rdf:resource="#S3"/>
+		<cim:RegularIntervalSchedule.endTime>01:50</cim:RegularIntervalSchedule.endTime>
+		<cim:RegularIntervalSchedule.timeStep>12.7</cim:RegularIntervalSchedule.timeStep>
+		<cim:BasicIntervalSchedule.startTime>00:50</cim:BasicIntervalSchedule.startTime>
+		<cim:BasicIntervalSchedule.value1Multiplier>k</cim:BasicIntervalSchedule.value1Multiplier>
+		<cim:BasicIntervalSchedule.value1Unit>J</cim:BasicIntervalSchedule.value1Unit>
+		<cim:BasicIntervalSchedule.value2Multiplier>none</cim:BasicIntervalSchedule.value2Multiplier>
+		<cim:BasicIntervalSchedule.value2Unit>Hz</cim:BasicIntervalSchedule.value2Unit>
+		<cim:IdentifiedObject.aliasName>RS3</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>RS3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>RS3</cim:IdentifiedObject.name>
+	</cim:RegulationSchedule>
+
+	<!-- <cim:RegularIntervalSchedule.timeStep rdf:resource="#"/> -->
+
+	
+	<!-- AsynchronousMachine -->
+	<cim:AsynchronousMachine rdf:ID="AM1">
+		<cim:AsynchronousMachine.rr1>10.5</cim:AsynchronousMachine.rr1>
+		<cim:AsynchronousMachine.rr2>20.5</cim:AsynchronousMachine.rr2>
+		<cim:AsynchronousMachine.tpo>10.1</cim:AsynchronousMachine.tpo>
+		<cim:AsynchronousMachine.tppo>5.5</cim:AsynchronousMachine.tppo>
+		<cim:AsynchronousMachine.xlr1>80.5</cim:AsynchronousMachine.xlr1>
+		<cim:AsynchronousMachine.xlr2>55.1</cim:AsynchronousMachine.xlr2>
+		<cim:AsynchronousMachine.xm>110.1</cim:AsynchronousMachine.xm>
+		<cim:AsynchronousMachine.xp>50.1</cim:AsynchronousMachine.xp>
+		<cim:AsynchronousMachine.xpp>50.1</cim:AsynchronousMachine.xpp>
+		<cim:AsynchronousMachine.xs>105.3</cim:AsynchronousMachine.xs>
+		<cim:RotatingMachine.damping>100.2</cim:RotatingMachine.damping>
+		<cim:RotatingMachine.inertia>20.2</cim:RotatingMachine.inertia>
+		<cim:RotatingMachine.ratedS>32.1</cim:RotatingMachine.ratedS>
+		<cim:RotatingMachine.saturationFactor>99.5</cim:RotatingMachine.saturationFactor>
+		<cim:RotatingMachine.saturationFactor120>119.5</cim:RotatingMachine.saturationFactor120>
+		<cim:RotatingMachine.statorLeakageReactance>50.2</cim:RotatingMachine.statorLeakageReactance>
+		<cim:RotatingMachine.statorResistance>70.1</cim:RotatingMachine.statorResistance>
+		<cim:RegulatingCondEq.RegulatingControl rdf:resource="#RC1"/>
+		<cim:Equipment.aggregate>True</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>True</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>AM1</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>AM1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>AM1</cim:IdentifiedObject.name>
+	</cim:AsynchronousMachine>
+
+</rdf:RDF>
